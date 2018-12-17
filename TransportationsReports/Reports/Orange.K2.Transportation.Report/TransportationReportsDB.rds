@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TransportationReportsDB">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=.;Initial Catalog=K2_BSP15GLF12</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>415eff83-3633-4c62-a755-1b0c663d9ed0</DataSourceID>
+</RptDataSource>
